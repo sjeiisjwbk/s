@@ -1,4 +1,4 @@
-ame: Deploy HTML no GitHub Pages
+name: Deploy HTML no GitHub Pages
  
  on:
    push:
